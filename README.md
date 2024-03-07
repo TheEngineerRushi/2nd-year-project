@@ -1,0 +1,1 @@
+The NIT AP Hospital Management System is a web-based application designed to streamline the administrative and operational tasks of a hospital affiliated within NIT AP. The system aims to improve efficiency, enhance patient care, and simplify the management of hospital resources.
